@@ -1,16 +1,27 @@
-# Smart Grid Optimizer
+# ⚡ Smart Grid Optimizer
 
-An AI-based energy optimization platform for smart grids with real-time monitoring and optimization capabilities.
+> **An AI-based platform for optimizing smart grid energy usage with real-time monitoring and intelligent insights.**
 
-## Features
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-blue)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational)
 
-- Real-time energy consumption dashboard
-- Live monitoring of renewable energy generation
-- Grid stability tracking
-- Energy audit reports
-- AI-based optimization suggestions
+---
 
-## Project Structure
+## ✨ Features
+
+- 📊 **Real-time energy consumption dashboard**
+- ☀️ **Live monitoring of renewable energy generation**
+- 🛡️ **Grid stability tracking**
+- 📄 **Comprehensive energy audit reports**
+- 🤖 **AI-based optimization suggestions**
+
+---
+
+## 📁 Project Structure
+
+
 
 ```
 .
